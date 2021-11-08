@@ -1,0 +1,6 @@
+applicationType: grpc
+defaultPackage: com.giacom.grpc
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, gradle, grpc, junit, kotlin, kotlin-application, kotlin-extension-functions, logback, mockito, readme, shade, yaml]
